@@ -28,10 +28,10 @@ The LG Data Diary is a Java Spring MVC application designed to streamline studen
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 1.8 or higher
 - Apache Tomcat Server 
-- [Database System, e.g., MySQL Server]
-- [Additional Dependencies, e.g., Maven]
+- MySQL Server
+- Additional Dependencies : Maven
 
 ### Setup
 
